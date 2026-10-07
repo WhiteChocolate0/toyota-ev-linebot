@@ -1,0 +1,5 @@
+[
+  {"id": "bz4x-id", "model_name": "bZ4X", "drivetrain": "ev", "purchase_price_ntd": 1280000},
+  {"id": "rav4-id", "model_name": "RAV4", "drivetrain": "hybrid", "purchase_price_ntd": 1120000},
+  {"id": "cc-hev-id", "model_name": "COROLLA CROSS", "drivetrain": "hybrid", "purchase_price_ntd": 900000}
+]

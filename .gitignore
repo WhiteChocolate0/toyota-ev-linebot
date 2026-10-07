@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+!.env.development.example
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.vercel
+supabase/.temp/
+**/.DS_Store
+dist/
+build/
+.coverage
+.mypy_cache/
+.ruff_cache/
